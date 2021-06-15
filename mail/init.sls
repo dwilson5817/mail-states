@@ -5,4 +5,4 @@
 include:
   - docker
   - docker.compose
-  - .clone
+  - .files
