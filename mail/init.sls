@@ -6,3 +6,4 @@ include:
   - docker
   - docker.compose
   - .files
+  - .backup
